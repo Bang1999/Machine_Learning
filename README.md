@@ -1,4 +1,4 @@
-# Machine_Learning Practice
+# Machine Learning Practice
 ---------------------------------
 
 ### Summary of school assignment
